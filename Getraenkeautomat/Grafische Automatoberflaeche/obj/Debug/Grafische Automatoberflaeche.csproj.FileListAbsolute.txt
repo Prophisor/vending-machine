@@ -1,0 +1,60 @@
+C:\Users\Siyamend\source\repos\Getränkautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe.config
+C:\Users\Siyamend\source\repos\Getränkautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe
+C:\Users\Siyamend\source\repos\Getränkautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.pdb
+C:\Users\Siyamend\source\repos\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.AssemblyReference.cache
+C:\Users\Siyamend\source\repos\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Getraenkautomat.resources
+C:\Users\Siyamend\source\repos\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Properties.Resources.resources
+C:\Users\Siyamend\source\repos\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.GenerateResource.cache
+C:\Users\Siyamend\source\repos\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.CoreCompileInputs.cache
+C:\Users\Siyamend\source\repos\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.exe
+C:\Users\Siyamend\source\repos\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.pdb
+C:\Users\Siyamend\Desktop\Getränkautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe.config
+C:\Users\Siyamend\Desktop\Getränkautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe
+C:\Users\Siyamend\Desktop\Getränkautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.pdb
+C:\Users\Siyamend\Desktop\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.AssemblyReference.cache
+C:\Users\Siyamend\Desktop\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Getraenkautomat.resources
+C:\Users\Siyamend\Desktop\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Properties.Resources.resources
+C:\Users\Siyamend\Desktop\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.GenerateResource.cache
+C:\Users\Siyamend\Desktop\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.CoreCompileInputs.cache
+C:\Users\Siyamend\Desktop\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.exe
+C:\Users\Siyamend\Desktop\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.pdb
+C:\Users\Siyamend\Desktop\C#-Programme\Getränkautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe.config
+C:\Users\Siyamend\Desktop\C#-Programme\Getränkautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe
+C:\Users\Siyamend\Desktop\C#-Programme\Getränkautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.pdb
+C:\Users\Siyamend\Desktop\C#-Programme\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.AssemblyReference.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Getraenkautomat.resources
+C:\Users\Siyamend\Desktop\C#-Programme\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Properties.Resources.resources
+C:\Users\Siyamend\Desktop\C#-Programme\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.GenerateResource.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.CoreCompileInputs.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.exe
+C:\Users\Siyamend\Desktop\C#-Programme\Getränkautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.pdb
+C:\Users\Siyamend\Desktop\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe.config
+C:\Users\Siyamend\Desktop\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe
+C:\Users\Siyamend\Desktop\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.pdb
+C:\Users\Siyamend\Desktop\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.AssemblyReference.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Getraenkautomat.resources
+C:\Users\Siyamend\Desktop\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Properties.Resources.resources
+C:\Users\Siyamend\Desktop\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.GenerateResource.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.CoreCompileInputs.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.exe
+C:\Users\Siyamend\Desktop\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.pdb
+\\srz-fs01\Daten\Temp\Abde_Siyamend\_neues_hier_rein_\Getraenkeautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe.config
+\\srz-fs01\Daten\Temp\Abde_Siyamend\_neues_hier_rein_\Getraenkeautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe
+\\srz-fs01\Daten\Temp\Abde_Siyamend\_neues_hier_rein_\Getraenkeautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.pdb
+\\srz-fs01\Daten\Temp\Abde_Siyamend\_neues_hier_rein_\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.AssemblyReference.cache
+\\srz-fs01\Daten\Temp\Abde_Siyamend\_neues_hier_rein_\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Getraenkautomat.resources
+\\srz-fs01\Daten\Temp\Abde_Siyamend\_neues_hier_rein_\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Properties.Resources.resources
+\\srz-fs01\Daten\Temp\Abde_Siyamend\_neues_hier_rein_\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.GenerateResource.cache
+\\srz-fs01\Daten\Temp\Abde_Siyamend\_neues_hier_rein_\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.CoreCompileInputs.cache
+\\srz-fs01\Daten\Temp\Abde_Siyamend\_neues_hier_rein_\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.exe
+\\srz-fs01\Daten\Temp\Abde_Siyamend\_neues_hier_rein_\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.pdb
+I:\develop\C#\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe.config
+I:\develop\C#\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.exe
+I:\develop\C#\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\bin\Debug\Grafische Automatoberflaeche.pdb
+I:\develop\C#\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.AssemblyReference.cache
+I:\develop\C#\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Getraenkautomat.resources
+I:\develop\C#\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische_Automatoberflaeche.Properties.Resources.resources
+I:\develop\C#\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.GenerateResource.cache
+I:\develop\C#\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.csproj.CoreCompileInputs.cache
+I:\develop\C#\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.exe
+I:\develop\C#\C#-Programme\Getraenkeautomat\Grafische Automatoberflaeche\obj\Debug\Grafische Automatoberflaeche.pdb
